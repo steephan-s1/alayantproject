@@ -1,3 +1,3 @@
-# maven-project/Java
+# Alayant-project
 
 Simple Maven Project
